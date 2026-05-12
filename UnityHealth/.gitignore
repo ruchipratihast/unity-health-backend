@@ -1,0 +1,71 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+packages/
+!packages/build/
+*.nuget.props
+*.nuget.targets
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET / app settings (optional: keep if sensitive)
+appsettings.Development.json
+appsettings.Local.json
+appsettings.json
+
+# IIS Express
+.vs/config/applicationhost.config
+
+# Publish output
+publish/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test results
+TestResults/
+
+# Coverage
+*.coverage
+*.coveragexml
+
+# Azure
+*.azurePubxml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Entity Framework
+*.edmx.diagram
+
+# Node (if frontend later added)
+node_modules/
+
+# Secrets
+secrets.json
