@@ -1,6 +1,8 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using UnityHealth;
 using UnityHealth.Services.Auth;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,6 +29,11 @@ builder.Services.Configure<ApiBehaviorOptions>(options =>
 
         return new BadRequestObjectResult(new { errors });
     };
+});
+
+builder.Services.AddDbContext<EFCoreDbContext>(option =>
+{
+    option.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
 var app = builder.Build();
