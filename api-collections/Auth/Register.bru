@@ -1,0 +1,17 @@
+meta {
+  name: Register
+  type: http
+  seq: 2
+}
+
+post {
+  url: https://localhost:44324/api/v1/auth/register
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "email":"staff@gmail.com"
+  }
+}

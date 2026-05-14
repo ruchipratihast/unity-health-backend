@@ -4,7 +4,7 @@ namespace UnityHealth.Controllers
 {
     [ApiController]
     [Route("/health")]
-    public class HomeController : ControllerBase
+    public class HealthController : ControllerBase
     {
         [HttpGet]
         public IActionResult Index()
