@@ -7,24 +7,40 @@
       "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\services\\auth\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\unityhealth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\unityhealth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\validators\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\validators\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\docker-compose.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\models\\database\\auth\\otpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\models\\database\\auth\\otpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\validators\\registerotpvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,24 +67,8 @@
       "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\models\\response\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\models\\database\\auth\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\models\\database\\auth\\userrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\models\\database\\auth\\otpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\models\\database\\auth\\otpmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\models\\database\\auth\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\models\\database\\auth\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\models\\enums\\userroletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\models\\enums\\userroletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\unityhealth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|solutionrelative:unityhealth\\unityhealth.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF6829C0-FA89-A8C3-A04A-D3687437F71C}|UnityHealth\\UnityHealth.csproj|c:\\users\\ruchi\\documents\\personal-work\\cs-learning\\unityhealth\\unityhealth\\models\\request\\auth\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,58 +90,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yaml",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\docker-compose.yaml",
+              "RelativeDocumentMoniker": "docker-compose.yaml",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\docker-compose.yaml",
+              "RelativeToolTip": "docker-compose.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-14T17:50:18.964Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "UnityHealth\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "UnityHealth\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T17:19:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnityHealth.csproj",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\UnityHealth.csproj",
+              "RelativeDocumentMoniker": "UnityHealth\\UnityHealth.csproj",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\UnityHealth.csproj",
+              "RelativeToolTip": "UnityHealth\\UnityHealth.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vw8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T05:42:45.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "UnityHealth\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Controllers\\AuthController.cs",
               "RelativeToolTip": "UnityHealth\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T16:53:50.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Program.cs",
-              "RelativeDocumentMoniker": "UnityHealth\\Program.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Program.cs",
-              "RelativeToolTip": "UnityHealth\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T16:20:24.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Validators\\RegisterValidator.cs",
-              "RelativeDocumentMoniker": "UnityHealth\\Validators\\RegisterValidator.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Validators\\RegisterValidator.cs",
-              "RelativeToolTip": "UnityHealth\\Validators\\RegisterValidator.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T16:31:27.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Request\\Auth\\RegisterRequest.cs",
-              "RelativeDocumentMoniker": "UnityHealth\\Models\\Request\\Auth\\RegisterRequest.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Request\\Auth\\RegisterRequest.cs",
-              "RelativeToolTip": "UnityHealth\\Models\\Request\\Auth\\RegisterRequest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T15:35:00.709Z",
               "EditorCaption": ""
             },
             {
@@ -152,33 +153,33 @@
               "RelativeDocumentMoniker": "UnityHealth\\Services\\Auth\\IAuthService.cs",
               "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Services\\Auth\\IAuthService.cs",
               "RelativeToolTip": "UnityHealth\\Services\\Auth\\IAuthService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T17:18:53.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Services\\Auth\\AuthService.cs",
-              "RelativeDocumentMoniker": "UnityHealth\\Services\\Auth\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Services\\Auth\\AuthService.cs",
-              "RelativeToolTip": "UnityHealth\\Services\\Auth\\AuthService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Program.cs",
+              "RelativeDocumentMoniker": "UnityHealth\\Program.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Program.cs",
+              "RelativeToolTip": "UnityHealth\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T17:19:05.034Z",
+              "WhenOpened": "2026-05-12T16:20:24.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\appsettings.json",
               "RelativeDocumentMoniker": "UnityHealth\\appsettings.json",
               "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\appsettings.json",
               "RelativeToolTip": "UnityHealth\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-13T16:10:29.557Z",
               "EditorCaption": ""
@@ -186,6 +187,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "LoginValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Validators\\LoginValidator.cs",
+              "RelativeDocumentMoniker": "UnityHealth\\Validators\\LoginValidator.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Validators\\LoginValidator.cs",
+              "RelativeToolTip": "UnityHealth\\Validators\\LoginValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:40:29.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFCoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\EFCoreDbContext.cs",
+              "RelativeDocumentMoniker": "UnityHealth\\EFCoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\EFCoreDbContext.cs",
+              "RelativeToolTip": "UnityHealth\\EFCoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T17:53:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OtpModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Database\\Auth\\OtpModel.cs",
+              "RelativeDocumentMoniker": "UnityHealth\\Models\\Database\\Auth\\OtpModel.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Database\\Auth\\OtpModel.cs",
+              "RelativeToolTip": "UnityHealth\\Models\\Database\\Auth\\OtpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:15:23.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "RegisterOtpValidator.cs",
               "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Validators\\RegisterOtpValidator.cs",
               "RelativeDocumentMoniker": "UnityHealth\\Validators\\RegisterOtpValidator.cs",
@@ -198,20 +238,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Validators\\LoginValidator.cs",
-              "RelativeDocumentMoniker": "UnityHealth\\Validators\\LoginValidator.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Validators\\LoginValidator.cs",
-              "RelativeToolTip": "UnityHealth\\Validators\\LoginValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Request\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "UnityHealth\\Models\\Request\\Auth\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Request\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "UnityHealth\\Models\\Request\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T16:40:29.184Z",
+              "WhenOpened": "2026-05-13T15:35:00.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "RegisterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Validators\\RegisterValidator.cs",
+              "RelativeDocumentMoniker": "UnityHealth\\Validators\\RegisterValidator.cs",
+              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Validators\\RegisterValidator.cs",
+              "RelativeToolTip": "UnityHealth\\Validators\\RegisterValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T16:31:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "LoginResponse.cs",
               "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Response\\Auth\\LoginResponse.cs",
               "RelativeDocumentMoniker": "UnityHealth\\Models\\Response\\Auth\\LoginResponse.cs",
@@ -219,11 +272,12 @@
               "RelativeToolTip": "UnityHealth\\Models\\Response\\Auth\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T16:32:00.216Z"
+              "WhenOpened": "2026-05-13T16:32:00.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "RegisterOtpRequest.cs",
               "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Request\\Auth\\RegisterOtpRequest.cs",
               "RelativeDocumentMoniker": "UnityHealth\\Models\\Request\\Auth\\RegisterOtpRequest.cs",
@@ -231,11 +285,12 @@
               "RelativeToolTip": "UnityHealth\\Models\\Request\\Auth\\RegisterOtpRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T16:36:31.623Z"
+              "WhenOpened": "2026-05-13T16:36:31.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "ResetPasswordRequest.cs",
               "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Request\\Auth\\ResetPasswordRequest.cs",
               "RelativeDocumentMoniker": "UnityHealth\\Models\\Request\\Auth\\ResetPasswordRequest.cs",
@@ -243,47 +298,12 @@
               "RelativeToolTip": "UnityHealth\\Models\\Request\\Auth\\ResetPasswordRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T15:37:08.373Z"
+              "WhenOpened": "2026-05-13T15:37:08.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserRoleModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Database\\Auth\\UserRoleModel.cs",
-              "RelativeDocumentMoniker": "UnityHealth\\Models\\Database\\Auth\\UserRoleModel.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Database\\Auth\\UserRoleModel.cs",
-              "RelativeToolTip": "UnityHealth\\Models\\Database\\Auth\\UserRoleModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T06:00:35.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "OtpModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Database\\Auth\\OtpModel.cs",
-              "RelativeDocumentMoniker": "UnityHealth\\Models\\Database\\Auth\\OtpModel.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Database\\Auth\\OtpModel.cs",
-              "RelativeToolTip": "UnityHealth\\Models\\Database\\Auth\\OtpModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T05:48:09.117Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Database\\Auth\\UserModel.cs",
-              "RelativeDocumentMoniker": "UnityHealth\\Models\\Database\\Auth\\UserModel.cs",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Database\\Auth\\UserModel.cs",
-              "RelativeToolTip": "UnityHealth\\Models\\Database\\Auth\\UserModel.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA5wBQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T05:45:49.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "UserRoleType.cs",
               "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\Models\\Enums\\UserRoleType.cs",
               "RelativeDocumentMoniker": "UnityHealth\\Models\\Enums\\UserRoleType.cs",
@@ -291,19 +311,8 @@
               "RelativeToolTip": "UnityHealth\\Models\\Enums\\UserRoleType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T06:25:38.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UnityHealth.csproj",
-              "DocumentMoniker": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\UnityHealth.csproj",
-              "RelativeDocumentMoniker": "UnityHealth\\UnityHealth.csproj",
-              "ToolTip": "C:\\Users\\Ruchi\\Documents\\personal-work\\cs-learning\\UnityHealth\\UnityHealth\\UnityHealth.csproj",
-              "RelativeToolTip": "UnityHealth\\UnityHealth.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-13T05:42:45.366Z"
+              "WhenOpened": "2026-05-13T06:25:38.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -315,7 +324,8 @@
               "RelativeToolTip": "UnityHealth\\Models\\Request\\Auth\\ForgotPasswordRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T15:36:39.768Z"
+              "WhenOpened": "2026-05-13T15:36:39.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -327,7 +337,8 @@
               "RelativeToolTip": "UnityHealth\\Models\\Request\\Auth\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T15:35:42.862Z"
+              "WhenOpened": "2026-05-13T15:35:42.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -339,7 +350,8 @@
               "RelativeToolTip": "UnityHealth\\Controllers\\HealthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T16:17:58.582Z"
+              "WhenOpened": "2026-05-12T16:17:58.582Z",
+              "EditorCaption": ""
             }
           ]
         }
